@@ -1,0 +1,8 @@
+.myrow{
+
+    padding: 10px 5px;
+}
+.myTableP{
+    box-shadow: 2px 2px 5px rgba(112, 128, 144, 0.55);
+    border-radius: 12px;
+}
