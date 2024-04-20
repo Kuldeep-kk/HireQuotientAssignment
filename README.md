@@ -16,4 +16,4 @@ This project is an asset management dashboard designed to provide financial anal
 
 To see the project in action, you can visit the following URL:
 
-[View Live Dashboard](https://your-deployment-url.com)
+[View Live Dashboard]([https://your-deployment-url.com](https://hire-quotient-assignment-five.vercel.app/))
